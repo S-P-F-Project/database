@@ -3,4 +3,5 @@ jinja2
 uvicorn
 httpx
 pytest
-pyDAL
+dataset
+bcrypt
