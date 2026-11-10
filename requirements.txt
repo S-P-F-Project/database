@@ -1,7 +1,7 @@
-fastapi
-jinja2
-uvicorn
-httpx
-pytest
-dataset
 bcrypt
+fastapi
+httpx
+itemdb
+jinja2
+pytest
+uvicorn
